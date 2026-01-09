@@ -18,7 +18,7 @@ Laravel を用いて制作した、飲食店向けの注文管理アプリです
 - MySQL  
 - HTML / CSS / JavaScript  
 - Git / GitHub  
-- Heroku
+
 
 ---
 
