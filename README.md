@@ -1,7 +1,4 @@
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # 🍡 飲食店注文管理システム「だんご3兄弟」
 
 Laravel を用いて制作した、飲食店向けの注文管理アプリです。  
